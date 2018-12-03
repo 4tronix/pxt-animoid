@@ -1,0 +1,19 @@
+{
+    "name": "Animoid",
+    "version": "1.0.0",
+    "description": "Microsoft MakeCode package for 4tronix Animoid",
+    "license": "Apache",
+    "dependencies": {
+        "core": "*",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.6.2"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "testFiles": [
+        "tests.ts"
+    ],
+    "yotta": {},
+    "public": true
+}
